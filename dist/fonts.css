@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 400;
+  src: url(assets/serif-0.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 500;
+  src: url(assets/serif-1.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 600;
+  src: url(assets/serif-2.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 700;
+  src: url(assets/serif-3.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 800;
+  src: url(assets/serif-4.woff2) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 900;
+  src: url(assets/serif-5.woff2) format('truetype');
+}

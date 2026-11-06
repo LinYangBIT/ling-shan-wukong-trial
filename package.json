@@ -1,0 +1,15 @@
+{
+  "name": "ling-shan",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 5175 --bind 127.0.0.1 --directory dist",
+    "build:wechat": "node scripts/build-wechat.mjs",
+    "wechat:config": "node scripts/configure-wechat.mjs",
+    "audio:wechat": "node scripts/render-wechat-audio.cjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.25.5",
+    "playwright-core": "1.51.1"
+  }
+}

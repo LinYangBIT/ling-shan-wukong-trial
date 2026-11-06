@@ -1,0 +1,15 @@
+*.png
+*.tar.gz
+node_modules/
+.DS_Store
+wechat-build/
+wechat.project.local.json
+project.private.config.json
+*.pem
+.env
+.env.*
+wechat-build-report.json
+release/
+
+evidence/
+qa-*-report.json
